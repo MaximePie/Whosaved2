@@ -1,6 +1,10 @@
 # Whosaved2
 The remastered project of Whosaved based on [ImpactJS](https://impactjs.com/)
 
+Check the original project [here](https://github.com/MaximePie/Whosaved). 
+
+:warning: The projet does not work anymore on C as we tried to restore it unsuccessfuly. But you can still check the images resources. 
+
 ## Requirements :warning:
 
 ### Software installation 
