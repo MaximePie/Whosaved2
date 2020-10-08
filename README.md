@@ -1,3 +1,5 @@
+![Couverture](https://i.ibb.co/RyxWP3b/readme.png)
+
 # Whosaved2
 The remastered project of Whosaved based on [ImpactJS](https://impactjs.com/)
 
