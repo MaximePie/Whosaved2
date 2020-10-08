@@ -24,7 +24,9 @@ To contribute to the project, feel free to submit merge requests, don't forget t
 
 First make sure Impact is well installed and configured by checking [this Impact installation guide](https://impactjs.com/documentation/getting-started)
 
-You can open up the project. 
+Make sure that your server root points on the project folder. (If you need help, check [this](https://phantomthemes.com/how-to-change-the-www-root-directory-on-wampserver-3/))
+
+Once Wamp is loaded, you can open up the project by visiting localhost/WhoSaved2
 
 ## How to contribute ?
 
